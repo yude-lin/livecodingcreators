@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>livecodingcreators</title>
-    <link>http://example.org/</link>
+    <link>https://yude-lin.github.io/livecodingcreators/</link>
     <description>Recent content on livecodingcreators</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 May 2023 12:57:03 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 May 2023 12:57:03 +0800</lastBuildDate><atom:link href="https://yude-lin.github.io/livecodingcreators/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Livecoding Music Jukebox</title>
-      <link>http://example.org/posts/livecoding-music-jukebox/</link>
+      <link>https://yude-lin.github.io/livecodingcreators/posts/livecoding-music-jukebox/</link>
       <pubDate>Wed, 17 May 2023 12:57:03 +0800</pubDate>
       
-      <guid>http://example.org/posts/livecoding-music-jukebox/</guid>
+      <guid>https://yude-lin.github.io/livecodingcreators/posts/livecoding-music-jukebox/</guid>
       <description> Dare to Step Away (live recording) - YouTube  </description>
     </item>
     

@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/livecoding-music-jukebox/</loc>
+    <loc>https://yude-lin.github.io/livecodingcreators/posts/livecoding-music-jukebox/</loc>
     <lastmod>2023-05-17T12:57:03+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://yude-lin.github.io/livecodingcreators/</loc>
     <lastmod>2023-05-17T12:57:03+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://yude-lin.github.io/livecodingcreators/posts/</loc>
     <lastmod>2023-05-17T12:57:03+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://yude-lin.github.io/livecodingcreators/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://yude-lin.github.io/livecodingcreators/tags/</loc>
   </url>
 </urlset>
