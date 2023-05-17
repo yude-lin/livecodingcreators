@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://yude-lin.github.io/livecodingcreators/'
 languageCode = 'en-us'
 title = 'livecodingcreators'
 theme = 'holy'
